@@ -1,0 +1,8 @@
+Archimede-M3UConverter2.1
+
+Update here to 2.1 version
+
+ONLY FOR PYTHON3
+
+wget -q --no-check-certificate https://raw.githubusercontent.com/Belfagor2005/Archimede-M3UConverter/main/installer.sh -O - | /bin/sh
+
